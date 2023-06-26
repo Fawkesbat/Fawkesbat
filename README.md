@@ -1,11 +1,13 @@
-### ✌ Hello, welcome to my dev bio!
+# ✌ Hello, welcome to my dev bio!
 
-I'm Gabriel but everyone call me "Fawkes" like my games nickname. Gratueted in Game Design (or Digital Games here in Brazil), i'm a game dev and tech entusiast. I currently work as a teacher in a programming and robotic school and have experience 
+I'm Gabriel but everyone call me "Fawkes" like my games nickname. Gratueted in Game Design (or Digital Games here in Brazil) </br>
+I'm a game dev and tech entusiast. I currently work as a teacher in a programming and robotic school and have experience 
 both as a player and a game developer, i like 2d and 3d art, but... I do programming to 😁
 
 # 🤓 Expertise
 
-My primmary focus is on 2D and 3D art, because this is my love at first sight, since i was a kid, everyday i draw Dragon Ball and other animes charactes while i watched tv. Every day i study and pratice some game dev skills with a goal of be
+My primmary focus is on 2D and 3D art, because this is my love at first sight, since i was a kid, everyday i draw Dragon Ball and other animes charactes while i watched tv. </br>
+Every day i study and pratice some game dev skills with a goal of be
 more and more technically a best version of me 😎
 
 # 👾 Tech Stack
